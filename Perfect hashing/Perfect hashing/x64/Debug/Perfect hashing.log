@@ -1,0 +1,7 @@
+﻿  Perfect hashing.cpp
+D:\Uni materials\2 course\Algorithms and complexity\2 semester\AC-Lab-2.1\Perfect hashing\Perfect hashing.cpp(70,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Uni materials\2 course\Algorithms and complexity\2 semester\AC-Lab-2.1\Perfect hashing\Perfect hashing.cpp(82,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Uni materials\2 course\Algorithms and complexity\2 semester\AC-Lab-2.1\Perfect hashing\Perfect hashing.cpp(105,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Uni materials\2 course\Algorithms and complexity\2 semester\AC-Lab-2.1\Perfect hashing\Perfect hashing.cpp(123,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Uni materials\2 course\Algorithms and complexity\2 semester\AC-Lab-2.1\Perfect hashing\Perfect hashing.cpp(161,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Perfect hashing.vcxproj -> D:\Uni materials\2 course\Algorithms and complexity\2 semester\AC-Lab-2.1\Perfect hashing\x64\Debug\Perfect hashing.exe
