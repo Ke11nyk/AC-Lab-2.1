@@ -1,2 +1,2 @@
-#Implementation of perfect hashing.
+# Implementation of perfect hashing.
 **Data type:** rational numbers.
